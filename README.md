@@ -1,5 +1,5 @@
 **Data**:
-
+1. _visitations.csv_ was provided by C. Stefanescu from the Catalan Butterfly Monitoring Scheme.
 2.	_gordo_sanz_2006_doe.csv_ was obtained from Figure 1 in DOI: 10.1111/j-1365-2486.2006.01178.x (Gordo & Sanz, 2006) using WebPlotDigitizer (https://apps.automeris.io/wpd4/). 
 3.	_gilbert_pupa.csv_ was obtained from DOI: 10.2307/4913 (Gilbert, 1988) 
 4.	_daily_tmax_df.RData_ and _daily_tmin_df.RData_ were obtained after data processing by the R script 2-climatic_data_mainlandSpain.R; the original data brick is not published any longer, but was originally downloaded from  http://www.meteo.unican.es/datasets/spain02 on January, 24th 2022 (Herrera et al. 2016).
