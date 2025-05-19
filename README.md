@@ -4,7 +4,7 @@
 3.	_gilbert_pupa.csv_ was obtained from DOI: 10.2307/4913 (Gilbert, 1988) 
 4.	_daily_tmax_df.RData_ and _daily_tmin_df.RData_ were obtained after data processing by the R script 2-climatic_data_mainlandSpain.R; the original data brick is not published any longer, but was originally downloaded from  http://www.meteo.unican.es/datasets/spain02 on January, 24th 2022 (Herrera et al. 2016).
 5.	_easyclimate_data_extracted.rds_ was obtained in the program of the 5-predictions_cbms.R, using climatic data from Moreno and Hasenauer (2016) (see citation in supporting information).
-6.	_prapae_cbms.csv_ was provided by C. Stefanescu from the Catalan Butterfly Monitoring Scheme, and co-author of this paper.
+6.	_prapae_cbms.csv_ was provided by C. Stefanescu from the Catalan Butterfly Monitoring Scheme.
 7.	_schmalensee2023.txt_ was obtained from DOI: 10.1038/s41467-023-39359-8 (von Schmalensee et al., 2023).
 
 **Figures**
